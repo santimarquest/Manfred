@@ -1,0 +1,107 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Antonio ",
+      "surnames": "Marquès Taltavull",
+      "title": "Ingeniero de Software Senior .NET",
+      "description": "Soy Ingeniero en Informática, por la Universitat Politécnica de Catalunya (UPC),\ncon certificación PMP (Project Manager Professional, del PMI - Project\nManagemenet Institute) y certificación ITIL (ITIL Foundation v3.0).\nIngeniero de Calidad de Software (Iforline - Institute for Quality Business).\nGraduado en el curso de postgrado de Sistemas de Información Geográfica\n(SIG) en la UOC (Universitat Oberta de Catalunya).\nMi experiencia en proyectos Microsoft .NET:\n10 años de experiencia.\nDesde 2012 hasta la actualidad estoy desarrollando de manera profesional\nproyectos web .NET, en empresas como Wolters Kluwers, Inergy CIMNE RSM\nGassó, Gesdocument, Altran Innovación i Userzoom.\nEstoy interesado en trabajar en proyectos y empresas con las siguientes\ncaracterísticas:\nTecnología: C# .NET MVC, .NET Core, HTML5, JavaScript/jQuery, CSS3,\nEntity Framework, SQL-Server, MSTest/Nunit/xUnit/Moq, Dependency\nInjection (Unity, AutoFac, Ninject), Nodejs i Angular\nMetodología: Agile, TDD.\nSe da importancia en el desarrollo a:\n1)\nSOLID i Clean Code\n2)\nUnit Testing\n3)\nDesign Patterns\n4)\nMultithreading\n5)\nFunctional Programming\n6)\nAlgorithm + Data Structures\n7)\nDevops environment, Continuous Delivery/Continuous Integration\n\nDesde mayo de 2011, he centrado mi enfoque de formación en la obtención de\ncertificaciones oficiales de desarrollo .NET de Microsoft, con los siguientes logros:\nCertified Microsoft Data Access with ADO.NET Framework 4.0 (MCTS 70-\n516)\nCertified Microsoft Web Developer .NET Framework 4.0 (MCTS 70-515)\nCertified Microsoft Programming HTML5, JavaScript & CSS3 (MCTS 70-\n480)\nTambién he realizado durante 2012 el curso de jQuery en la entidad formadora\ncampusMVP, el curso de WCF (Windows Communication Foundation) a finales\nde 2013, y el curso Responsive Web Design en 2017.\nEn febrero de 2013 he finalizado el curso de TDD (Test Driven Development –\nDesarrollo de software orientado a pruebas) en el Centro de Formación\nPermanente de la Universidad de Sevilla.\nA partir de 2016 me he centrado en Pluralsight, una de las más completas\nplataformas de enseñanza online de la tecnología .NET, entre muchas otras.\nhttps://app.pluralsight.com/profile/antonio-marques\n2019 ha sido el año de Machine Learning (amb C#), de Kotlin i Angular,\ntecnologías amb las que me estoy iniciando.\nY 2020 es el año de Docker, Kubernetes, Microservices, .Net Core y Node.js.",
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/antoniomarquestaltavull/"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Catalan",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "English",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Oracle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Entity",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".Net Core",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/antoniomarquestaltavull/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
