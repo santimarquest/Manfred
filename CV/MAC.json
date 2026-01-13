@@ -131,6 +131,16 @@
     "status": "notAvailable"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": ".NET",
+        "type": "technology"
+      },
+      {
+        "name": ".Net Core",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Estoy interesado en trabajar en proyectos y empresas con las siguientes\ncaracterísticas:\nTecnología: C# .NET MVC, .NET Core, HTML5, JavaScript/jQuery, CSS3,\nEntity Framework, SQL-Server, MSTest/Nunit/xUnit/Moq, Dependency\nInjection (Unity, AutoFac, Ninject), Nodejs i Angular\nMetodología: Agile, TDD.\nSe da importancia en el desarrollo a:\n1) SOLID i Clean Code\n2) Unit Testing\n3)Design Patterns\n4)Multithreading\n5)Functional Programming\n6)Algorithm + Data Structures\n7)Devops environment, Continuous Delivery/Continuous Integration"
   }
 }
